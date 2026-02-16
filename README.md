@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on scalable MERN stack applications and building a SaaS product.<br><br>👯 I’m looking to collaborate on real-world web development and blockchain projects.<br><br>🤝 I’m looking for help with advanced system design and scalable backend architecture.<br><br>🌱 I’m currently learning DSA in Java and exploring Blockchain development.<br><br>💬 Ask me about Node.js, Express, MongoDB, REST APIs, authentication systems, and full-stack project building.<br><br>⚡ Fun fact: I started my tech journey from a rural background and built my skills through pure consistency and self-learning.
+🔭 Currently building scalable, production-ready applications using the MERN stack, with a strong focus on clean backend architecture and real-world SaaS solutions.
+
+👯 Open to collaborating on ambitious web and blockchain projects that solve meaningful problems.
+
+🤝 Actively seeking opportunities to contribute as a Backend / Full-Stack Developer while deepening my expertise in system design and scalable infrastructure.
+
+🌱 Strengthening problem-solving skills through DSA in Java and exploring blockchain technologies to understand decentralized systems.
+
+💬 Ask me about designing REST APIs, authentication & authorization flows, database schema design, performance optimization, and turning ideas into deployable products.
+
+⚡ Built my journey from a rural background to developing full-stack applications — consistency and discipline are my competitive advantage.
 
 
 ## 🌐 Socials:
