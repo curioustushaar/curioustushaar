@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 Currently building scalable, production-ready applications using the MERN stack, with a strong focus on clean backend architecture and real-world SaaS solutions.<br><br>👯 Open to collaborating on ambitious web and blockchain projects that solve meaningful problems.<br><br>🤝 Actively seeking opportunities to contribute as a Backend / Full-Stack Developer while deepening my expertise in system design and scalable infrastructure.<br><br>🌱 Strengthening problem-solving skills through DSA in Java and exploring blockchain technologies to understand decentralized systems.<br><br>💬 Ask me about designing REST APIs, authentication & authorization flows, database schema design, performance optimization, and turning ideas into deployable products.<br><br>⚡ Built my journey from a rural background to developing full-stack applications — consistency and discipline are my competitive advantage..
+Full-Stack Engineer | Backend • DevOps • Web3
+
+I design systems — not just features  
+APIs, architecture, scalability & real SaaS products  
+
+currently mastering:
+→ system design  
+→ distributed thinking  
+→ decentralized tech  
+
+built from nothing. scaling up.
 
 
 ## 🌐 Socials:
