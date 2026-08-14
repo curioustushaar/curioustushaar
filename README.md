@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on **production-ready MERN applications, SaaS projects & DevOps**<br><br>🤝 I’m looking to collaborate on **Open Source, AI & Full-Stack projects**<br><br>🆘 I’m looking for help with **System Design, DSA & scaling applications**<br><br>🌱 I’m currently learning **Generative AI, Agentic AI, Docker, CI/CD & Cloud**<br><br>💬 Ask me about **MERN Stack, React, Node.js, AWS, DevOps & System Design**<br><br>⚡ Fun fact: **I love turning ideas into real-world products and deploying them to production 🚀**<br>
+# 💫 About Me
+
+Building **production-ready full-stack apps, SaaS products & cloud infrastructure**.
+
+Currently working with **MERN, AWS, Docker, CI/CD & System Design** — focused on building things that actually ship.
+
+Learning **Generative AI & Agentic AI** to move beyond traditional full-stack development.
+
+Interested in **Open Source, AI Engineering, scalable systems & developer tooling**.
+
+Ask me about **React, Node.js, MongoDB, AWS, DevOps & System Design**.
+
+> build → ship → break → learn → repeat.
 
 
 # 💻 Tech Stack:
